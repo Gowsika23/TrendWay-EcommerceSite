@@ -18,3 +18,9 @@ No matter what device you use, **Trendway** adapts beautifully – mobile, table
 ## 🌟 About
 **Trendway** is not just a shopping destination; it’s a **fashion-forward community** tailored just for you.  
 Explore the possibilities, shop with ease, and embrace the chic vibes at **Trendway – your go-to fashion hub! 👗👠**  
+
+<img width="1366" height="768" alt="Home Page" src="https://github.com/user-attachments/assets/195c2fa1-0c9e-40fc-96f2-e8c1112f3d48" />
+
+<img width="1366" height="768" alt="New Arrivals" src="https://github.com/user-attachments/assets/8700703c-9f46-4251-a6d0-8e04dc19dfc5" />
+
+
